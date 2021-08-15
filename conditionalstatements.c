@@ -21,6 +21,8 @@ int main()
     case 5:
       printf("Food item- Pizza\n Price- Rs.149");
       break;
+    default:
+      printf("Invalid number");
    }
  return 0;
 }
